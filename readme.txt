@@ -1,2 +1,3 @@
 abc
-a is a a.
+a is not c.
+b is a b.
